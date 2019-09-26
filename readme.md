@@ -16,7 +16,7 @@ Open your windows command prompt
 
 ### Step 03
 
-Moove to the PyAero directory
+Move to the PyAero directory
 
 ### Step 04
 
