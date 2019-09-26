@@ -1,6 +1,6 @@
 #---------------------------------------
 #	Change the language used in the app
-#	By default, french is selected
+#	By default, english is selected
 #---------------------------------------
 
 lang = {
