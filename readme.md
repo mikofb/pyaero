@@ -8,13 +8,17 @@
 
 ### Step 01
 
-Open your windows command prompt
+Clone or download this repository
 
 ### Step 02
 
-Moove to the PyAero directory
+Open your windows command prompt
 
 ### Step 03
+
+Moove to the PyAero directory
+
+### Step 04
 
 Run the command below
 
@@ -24,7 +28,7 @@ python PyAero.py
 
 ## SETTINGS
 
-You can set up this app in Settings/settings.py
+You can set up this app in *Settings/settings.py*
 
 <p class="center">
 Made with :heart:
