@@ -6,7 +6,6 @@
             → Phone : (+225) 44908473/89367484
             → Email: broukoffifranckmichael@gmailcom
             → Linkedin: https://www.linkedin.com/in/brou-koffi-franck-michael-969334167
-            → School: Ecole Superieure Africaine des TIC (ESATIC)
 
     Comments:        
         PyAero is a mini file explorer designed and coded with the python librairy Tkinter
@@ -20,9 +19,8 @@
             → Etc...
              
     Notice:
-            → Version: 1.0 bêta
             → Platform: windows
-            → Python version: 3.4
+            → Python version: 3.4 or highter
 
                     ♥ Feel free to send any comments, suggestions about this app
 
